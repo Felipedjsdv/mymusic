@@ -1,22 +1,22 @@
 [
   {
     "titulo": "Preciso Confiar",
-    "caminho": "",
-    "capa": "capas/capa1.jpg"
+    "caminho": "https://raw.githubusercontent.com/Felipedjsdv/mymusic/main/musicas/stellalaura-preciso-confiar-b46becff.mp3",
+    "capa": "https://raw.githubusercontent.com/Felipedjsdv/mymusic/main/imagens/precisoconfiar.jpeg"
   },
   {
     "titulo": "A Resposta",
-    "caminho": "musicas/minha_musica_2.mp3",
-    "capa": "capas/capa2.jpg"
+    "caminho": "https://raw.githubusercontent.com/Felipedjsdv/mymusic/main/musicas/kemillysantos-a-resposta-87a3ea52.mp3",
+    "capa": "https://raw.githubusercontent.com/Felipedjsdv/mymusic/main/imagens/resposta.jpg"
   },
   {
     "titulo": "Descansa",
-    "caminho": "musicas/minha_musica_2.mp3",
-    "capa": "capas/capa2.jpg"
+    "caminho": "https://raw.githubusercontent.com/Felipedjsdv/mymusic/main/musicas/stellalaura-descansa-6fe6de8f.mp3",
+    "capa": "https://raw.githubusercontent.com/Felipedjsdv/mymusic/main/imagens/Rest.webp"
   },
   {
     "titulo": "Vai Valer Apena",
-    "caminho": "musicas/minha_musica_2.mp3",
-    "capa": "capas/capa2.jpg"
+    "caminho": "https://raw.githubusercontent.com/Felipedjsdv/mymusic/main/musicas/vaivalerapena.mp3",
+    "capa": "https://raw.githubusercontent.com/Felipedjsdv/mymusic/main/imagens/vaivalerapena.jpeg"
   }
 ]
