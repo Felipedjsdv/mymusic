@@ -1,0 +1,22 @@
+[
+  {
+    "titulo": "Preciso Confiar",
+    "caminho": "",
+    "capa": "capas/capa1.jpg"
+  },
+  {
+    "titulo": "A Resposta",
+    "caminho": "musicas/minha_musica_2.mp3",
+    "capa": "capas/capa2.jpg"
+  },
+  {
+    "titulo": "Descansa",
+    "caminho": "musicas/minha_musica_2.mp3",
+    "capa": "capas/capa2.jpg"
+  },
+  {
+    "titulo": "Vai Valer Apena",
+    "caminho": "musicas/minha_musica_2.mp3",
+    "capa": "capas/capa2.jpg"
+  }
+]

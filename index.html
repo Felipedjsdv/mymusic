@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Meu Player Estilo Spotify</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+
+<body>
+  <header>
+    <h1>🎵 MyMusic</h1>
+  </header>
+
+  <div class="container">
+   <nav class="menu">
+        <ul>
+            <li><i data-lucide="home"></i> Início</li>
+            <li><i data-lucide="music"></i> Minhas Músicas</li>
+            <li><i data-lucide="heart"></i> Favoritas</li>
+            <li><i data-lucide="settings"></i> Configurações</li>
+        </ul>
+    </nav>
+
+
+    <main>
+        <h2>Escolha suas músicas 🎶</h2>
+        <input type="file" id="fileInput" accept="audio/*" multiple />
+
+        <div class="music-box">
+            <img id="cover" src="https://i.imgur.com/UH3IPXw.png" alt="Capa do Álbum" />
+    
+            <div class="controls">
+            <button id="prevBtn"><i data-lucide="skip-back"></i></button>
+            <button id="playPauseBtn"><i data-lucide="play"></i></button>
+            <button id="nextBtn"><i data-lucide="skip-forward"></i></button>
+            </div>
+
+            <audio id="audioPlayer" controls style="display: none;"></audio>
+        </div>
+
+        <ul id="playlist"></ul>
+    </main>
+
+  </div>
+
+  <footer>
+    <p>Desenvolvido por Felipe Souza • 2025</p>
+    <p>Para fins educacionais</p>
+  </footer>
+
+  <script src="script.js"></script>
+    <script>
+    lucide.createIcons();
+    </script>
+
+</body>
+</html>
